@@ -1,8 +1,8 @@
-# Game of Life
+# Game of Life in Java
 
-[Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) Java implementation
+[Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) implemented in java  
 
-Coding from scratch [Video](https://www.youtube.com/watch?v=k3SM-3vZbwU)
+Coding from scratch video: https://youtu.be/k3SM-3vZbwU
 
 ## Preview
 
