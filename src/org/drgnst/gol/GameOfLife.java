@@ -11,7 +11,7 @@ import java.util.Random;
 import javax.swing.JFrame;
 
 /**
- * @author "Baker : http://blog.naver.com/knwer782"
+ * @author "Sopiro : https://github.com/Sopiro"
  *
  */
 public class GameOfLife extends Canvas implements Runnable
